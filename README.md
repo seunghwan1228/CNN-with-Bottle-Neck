@@ -1,4 +1,4 @@
-# ENet-Deep-Neural-Network-Arch
-https://arxiv.org/abs/1901.01986
+# CNN with bottle Neck
+https://medium.com/@yu4u/why-mobilenet-and-its-variants-e-g-shufflenet-are-fast-1c7048b9618d
 
-Practice for ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation
+Practice for CNN with bottle neck on kernel
