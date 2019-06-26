@@ -1,4 +1,5 @@
-# CNN with bottle Neck
-https://medium.com/@yu4u/why-mobilenet-and-its-variants-e-g-shufflenet-are-fast-1c7048b9618d
+# EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
+
+https://arxiv.org/pdf/1905.11946.pdf
 
 Practice for CNN with bottle neck on kernel
